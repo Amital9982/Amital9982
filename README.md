@@ -1,3 +1,5 @@
+[![An image of @amital9982's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amital9982)](https://holopin.io/@amital9982)
+
 - 👋 Hi, I’m Arpit Kumar Mittal
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently working on Web Development
